@@ -1,0 +1,87 @@
+[
+	{
+		"id": "civpol",
+		"name": "Civic/Political",
+		"weights": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+		"left": {
+			"name": "Rehabdem AuthLib",
+			"color": "#8e7cc3",
+			"description": "This is the \"rayz\" option, the higher you score on this value, the more you agree with Caressism on civics/political-system/governance. In this part of the ideology or subideology called Rehabdem AuthLib, this usually means you may be for democracy/ochlocracy/majority rule, for rehabilitative justice, against punishment, for big government, for bureaucracy, for surveillance/tracking or police measures to enforce laws, against many restrictions on what people are allowed to do, for freedom of thought, and/or against coercion/compulsion/violence in getting people to comply with ideology ."
+		},
+		"right": {
+			"name": "Not Rehabdem AuthLib",
+			"color": "#aa8e39",
+			"description": "This is the \"not rayz\" option, the higher you score on this value, the less you agree with Caressism on civics/political-sytem/governance. In this part of the ideology or subideology called Rehabdem AuthLib, this usually means you may be against democracy/ochlocracy/majority rule, against rehabilitative justice, pro-punishment, against big government, against bureaucracy, against surveillance/tracking or police measures to enforce laws, for many restrictions on what people are allowed to do, against freedom of thought, and/or for coercion/compulsion/violence in getting people to comply with ideology ."
+		}
+	},
+	{
+		"id": "econom",
+		"name": "Economic",
+		"left": {
+			"name": "Utopian Monowelfarist",
+			"color": "#6ed3c9",
+			"description": "This is the \"rayz\" option, the higher you score on this value, the more you agree with Caressism on economics. In this part of the ideology or subideology called Utopian Monowelfarism, this usually means you may have an ideology that is close to or shares many principles with my economic ideology such as social corporatism. Things that may include, automation, urbanization, deregulation, massive welfare, universal healthcare/foodcare/housing, high income taxes, pro-inheritance stances, economic centralization, monopolies, government intervention in the economy, etc."
+		},
+		"right": {
+			"name": "Not Utopian Monowelfarist",
+			"color": "#a05555",
+			"description": "This is the \"not rayz\" option, the higher you score on this value, the less you agree with Caressism on economics. In this part of the ideology or subideology called Utopian Monowelfarism, this usually means you may have an ideology that is far away from to or rejects many principles of my economic ideology."
+		}
+	},
+	{
+		"id": "cultur",
+		"name": "Culture",
+		"left": {
+			"name": "Nourishist",
+			"color": "#79cf55",
+			"description": "This is the \"rayz\" option, the higher you score on this value, the more you agree with Caressism on Culture or its societal policy. In this part of the ideology or subideology called Nourishism, this usually means you may be for theocracy, for the influence in religion in governments, anti-atheism, anti-secularism, for preservation all past records, for egalitarian inclusion towards all races/ethnicities/religions/genders/groups, anti-discrimination, against hate speech, for general personal liberty of the people to pursue that which they enjoy regardless of strict norms, against enforced moralism, against destruction of data/artifacts/documents/anything of past significance which may serve as a record of what is in the past, and/or for a focus on spiritualism/emotion/imagination/metaphysicality as well as drive to research and improve living conditions."
+		},
+		"right": {
+			"name": "Not Religious Progressive",
+			"color": "#996920",
+			"description": "This is the \"not rayz\" option, the higher you score on this value, the less you agree with Caressism on Culture or its societal policy. In this part of the ideology or subideology called Nourishism, this usually means you may be against theocracy, against the influence in religion in governments, pro-atheism, pro-secularism, against preservation all past records, against egalitarian inclusion towards all races/ethnicities/religions/genders/groups, pro-discrimination, for hate speech, against general personal liberty, against hedonism, for enforced moralism, for destruction of data/artifacts/documents/anything of past significance which may serve as a record of what is in the past, against a focus on spiritualism/emotion/imagination/metaphysicality, and/or against a drive to research and improve living conditions."
+		}
+	},
+	{
+		"id": "fdiplo",
+		"name": "Diplomatic/Foreign",
+		"left": {
+			"name": "Cosmopoltikulti Particulseparatist",
+			"color": "#eea65c",
+			"description": "This is the \"rayz\" option, the higher you score on this value, the more you agree with Caressism on Diplomatic/Foreign-Policy/Cultural-Relations/Nation/Immigration/Borders. In this part of the ideology or subideology called Cosmopoltikulti Particulseparatism, "
+		},
+		"right": {
+			"name": "Not Cosmopoltikulti Particulseparatist",
+			"color": "#926767",
+			"description": "This is the \"not rayz\" option, the higher you score on this value, the less you agree with Caressism on Diplomatic/Foreign-Policy/Cultural-Relations/Nation/Immigration/Borders. In this part of the ideology or subideology called Cosmopoltikulti Particulseparatism,"
+		}
+	},
+	{
+		"id": "otherr",
+		"name": "Other",
+		"left": {
+			"name": "ParaCaressist",
+			"color": "#ffd966",
+			"description": "This is the \"rayz\" option, the higher you score on this value, the more you agree with Caressism on things other than the above."
+		},
+		"right": {
+			"name": "Not ParaCaressist",
+			"color": "#a64d79",
+			"description": "This is the \"not rayz\" option, the higher you score on this value, the less you agree with Caressism on things other than the above."
+		}
+	},
+	{
+		"id": "ovrall",
+		"name": "Overall",
+		"left": {
+			"name": "Based Yes-Rayz",
+			"color": "#b6d7a8",
+			"description": "This is the \"rayz\" option, the higher you score on this value, the more you agree with Caressism overall."
+		},
+		"right": {
+			"name": "Unbased Not-Rayz",
+			"color": "#1763a8",
+			"description": "This is the \"not rayz\" option, the higher you score on this value, the less you agree with Caressism overall."
+		}
+	}
+]

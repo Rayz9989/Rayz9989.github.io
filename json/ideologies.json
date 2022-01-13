@@ -1,0 +1,134 @@
+[
+	{
+		"name": "Fully Disagree",
+		"stats": {
+			"civpol": 0,
+			"econom": 0,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 0
+		}
+	},
+	{
+		"name": "Mostly Disagree",
+		"stats": {
+			"civpol": 25,
+			"econom": 25,
+			"cultur": 25,
+			"fdiplo": 25,
+			"otherr": 25,
+			"ovrall": 25
+		}
+	},
+	{
+		"name": "Mostly Agree",
+		"stats": {
+			"civpol": 75,
+			"econom": 75,
+			"cultur": 75,
+			"fdiplo": 75,
+			"otherr": 75,
+			"ovrall": 75
+		}
+	},
+	{
+		"name": "Utopian Monowelfarist",
+		"stats": {
+			"civpol": 50,
+			"econom": 100,
+			"cultur": 50,
+			"fdiplo": 50,
+			"otherr": 50,
+			"ovrall": 60
+		}
+	},
+	{
+		"name": "Cosmopoltikulti Particulseparatist",
+		"stats": {
+			"civpol": 50,
+			"econom": 50,
+			"cultur": 50,
+			"fdiplo": 100,
+			"otherr": 50,
+			"ovrall": 60
+		}
+	},
+	{
+		"name": "ParaCaressist",
+		"stats": {
+			"civpol": 50,
+			"econom": 50,
+			"cultur": 50,
+			"fdiplo": 50,
+			"otherr": 100,
+			"ovrall": 60
+		}
+	},
+	{
+		"name": "Rehabdem AuthLib",
+		"stats": {
+			"civpol": 100,
+			"econom": 50,
+			"cultur": 50,
+			"fdiplo": 50,
+			"otherr": 50,
+			"ovrall": 60
+		}
+	},
+	{
+		"name": "Nourishist",
+		"stats": {
+			"civpol": 50,
+			"econom": 50,
+			"cultur": 100,
+			"fdiplo": 50,
+			"otherr": 50,
+			"ovrall": 60
+		}
+	},
+	{
+		"name": "Full-On Caressist",
+		"stats": {
+			"civpol": 100,
+			"econom": 100,
+			"cultur": 100,
+			"fdiplo": 100,
+			"otherr": 100,
+			"ovrall": 100
+		}
+	},
+	{
+		"name": "Economics and Governance Enjoyer",
+		"stats": {
+			"civpol": 100,
+			"econom": 100,
+			"cultur": 50,
+			"fdiplo": 50,
+			"otherr": 50,
+			"ovrall": 70
+		}
+	},
+	{
+		"name": "Economics & Governance",
+		"stats": {
+			"civpol": 75,
+			"econom": 75,
+			"cultur": 50,
+			"fdiplo": 50,
+			"otherr": 50,
+			"ovrall": 60
+		}
+	},
+	{
+		"name": "Immigrationist Particularist",
+		"stats": {
+			"civpol": 50,
+			"econom": 50,
+			"cultur": 75,
+			"fdiplo": 75,
+			"otherr": 50,
+			"ovrall": 60
+		}
+	}
+]
