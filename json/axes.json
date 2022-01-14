@@ -1,7 +1,7 @@
 [
 	{
 		"id": "civpol",
-		"name": "Civic/Political",
+		"name": "Civic/Pol",
 		"weights": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
 		"left": {
 			"name": "Rehabdem AuthLib",
@@ -44,7 +44,7 @@
 	},
 	{
 		"id": "fdiplo",
-		"name": "Diplomatic/Foreign",
+		"name": "Foreign",
 		"left": {
 			"name": "Cosmopoltikulti Particulseparatist",
 			"color": "#eea65c",

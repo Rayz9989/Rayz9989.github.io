@@ -2,46 +2,56 @@
 	{
 		"question": "Oppression by corporations is more of a concern than oppression by governments.",
 		"effect": {
-			"econ": 10,
-			"dipl": 0,
-			"govt": -5,
-			"scty": 0
+			"civpol": 0,
+			"econom": 0,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 0
 		}
 	},
 	{
 		"question": "It is necessary for the government to intervene in the economy to protect consumers.",
 		"effect": {
-			"econ": 10,
-			"dipl": 0,
-			"govt": 0,
-			"scty": 0
+			"civpol": 0,
+			"econom": 0,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 0
 		}
 	},
 	{
 		"question": "The freer the markets, the freer the people.",
 		"effect": {
-			"econ": -10,
-			"dipl": 0,
-			"govt": 0,
-			"scty": 0
+			"civpol": 0,
+			"econom": 0,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 0
 		}
 	},
 	{
 		"question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
 		"effect": {
-			"econ": -10,
-			"dipl": 0,
-			"govt": 0,
-			"scty": 0
+			"civpol": 0,
+			"econom": 0,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 0
 		}
 	},
 	{
 		"question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
 		"effect": {
-			"econ": 10,
-			"dipl": 0,
-			"govt": 0,
-			"scty": 10
+			"civpol": 0,
+			"econom": 0,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 0
 		}
 	},
 	{
