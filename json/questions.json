@@ -165,124 +165,190 @@
 		}
 	},
 	{
-		"question": "The United Nations should be abolished.",
+		"question": "All decisions are the purely the result of environmental influences, uncontrollable factors, and past history",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
 			"cultur": 0,
 			"fdiplo": 0,
-			"otherr": 0,
-			"ovrall": 0
+			"otherr": 10,
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "Military action by our nation is often necessary to protect it.",
+		"question": "Every people group should be guaranteed self-determination in their own separate nation.",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
 			"cultur": 0,
-			"fdiplo": 0,
+			"fdiplo": 10,
 			"otherr": 0,
-			"ovrall": 0
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "I support regional unions, such as the European Union.",
+		"question": "Emotions and feelings are far more valuable than facts and reasoning.",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
 			"cultur": 0,
 			"fdiplo": 0,
-			"otherr": 0,
-			"ovrall": 0
+			"otherr": 10,
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "It is important to maintain our national sovereignty.",
+		"question": "An ideology should be implemented peacefully.",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
 			"cultur": 0,
 			"fdiplo": 0,
-			"otherr": 0,
-			"ovrall": 0
+			"otherr": 10,
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "A united world government would be beneficial to mankind.",
+		"question": "There should be a country where anyone could easily immigrate to for better opportunities.",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
 			"cultur": 0,
-			"fdiplo": 0,
+			"fdiplo": 10,
 			"otherr": 0,
-			"ovrall": 0
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "It is more important to retain peaceful relations than to further our strength.",
+		"question": "We must maintain cultural and ethnic diversity.",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
-			"cultur": 0,
+			"cultur": 10,
 			"fdiplo": 0,
 			"otherr": 0,
-			"ovrall": 0
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "Wars do not need to be justified to other countries.",
+		"question": "We should allow people to mostly do what they want and help them in case they harm themselves.",
 		"effect": {
-			"civpol": 0,
+			"civpol": 10,
 			"econom": 0,
 			"cultur": 0,
 			"fdiplo": 0,
 			"otherr": 0,
-			"ovrall": 0
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "Military spending is a waste of money.",
+		"question": "We should keep a military but not use it for our own benefit.",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
 			"cultur": 0,
 			"fdiplo": 0,
-			"otherr": 0,
-			"ovrall": 0
+			"otherr": 10,
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "International aid is a waste of money.",
+		"question": "International aid is necessary.",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
 			"cultur": 0,
-			"fdiplo": 0,
+			"fdiplo": 10,
 			"otherr": 0,
-			"ovrall": 0
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "My nation is great.",
+		"question": "Welfare is always good.",
 		"effect": {
 			"civpol": 0,
-			"econom": 0,
+			"econom": 10,
 			"cultur": 0,
 			"fdiplo": 0,
 			"otherr": 0,
-			"ovrall": 0
+			"ovrall": 10
 		}
 	},
 	{
-		"question": "Research should be conducted on an international scale.",
+		"question": "A centralized government is needed.",
+		"effect": {
+			"civpol": 10,
+			"econom": 0,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 10
+		}
+	},
+	{
+		"question": "Economic centralization is the only way to have an efficient economy and we should further centralize our economy.",
+		"effect": {
+			"civpol": 0,
+			"econom": 10,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 10
+		}
+	},
+	{
+		"question": "We should limit aspects of forceful coercion in our government such as regulation.",
+		"effect": {
+			"civpol": 0,
+			"econom": 10,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 10
+		}
+	},
+	{
+		"question": "Both privatization and nationalization of companies are bad, we should not forcefully change who owns something.",
+		"effect": {
+			"civpol": 0,
+			"econom": 10,
+			"cultur": 0,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 10
+		}
+	},
+	{
+		"question": "A theocracy is preferable to secularism.",
+		"effect": {
+			"civpol": 0,
+			"econom": 0,
+			"cultur": 10,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 10
+		}
+	},
+	{
+		"question": "We shouldn't allow anyone in our society to be atheist.",
+		"effect": {
+			"civpol": 0,
+			"econom": 0,
+			"cultur": 10,
+			"fdiplo": 0,
+			"otherr": 0,
+			"ovrall": 10
+		}
+	},
+	{
+		"question": "All changes should be made by negotiating with others to agree to our ideas, not forcing them.",
 		"effect": {
 			"civpol": 0,
 			"econom": 0,
 			"cultur": 0,
 			"fdiplo": 0,
-			"otherr": 0,
-			"ovrall": 0
+			"otherr": 10,
+			"ovrall": 10
 		}
 	}
 ]
